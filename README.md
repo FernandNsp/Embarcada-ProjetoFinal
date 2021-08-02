@@ -4,7 +4,7 @@
    <a href="#-Sobre">Sobre</a>&nbsp;&nbsp; | &nbsp;&nbsp;
    <a href="#-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp; | &nbsp;&nbsp;
    <a href="#-Observações">Observações</a> &nbsp;&nbsp; | &nbsp;&nbsp;
-   <a href="#-Disciplina">Disciplina</a>
+   <a href="#-Explicação">Explicação</a>
 </p>
 
 <p align="center" width="100">
@@ -23,6 +23,10 @@
  - Cooler
  - Linguagem C
  
+## 👩🏽‍💻 Explicação
+**Relatorio do projeto:** <a href="https://github.com/FernandNsp/Embarcada-ProjetoFinal/blob/main/Embarcada-Relatorio.docx">PDF</a>
+**Video Explicativo:** <a href="https://drive.google.com/file/d/1DemxlU005kbQGXOmPAj7yQLHznx0NFMs/view?usp=sharing">Drive</a>
+
 ## 📰 Observações
    Alguns problemas foram encontrados durante o desenvolvimento do trabalho, como conflito do cooler com o teclado, display de 7 segmentos com flicker, e a não leitura da tecla através de uma função para isto. Apenas o cooler com o teclado que me impediu de implementar mais ao trabalho, pois não encontrei uma solução, entretanto, as outras duas dificuldades foram solucionadas.
     
