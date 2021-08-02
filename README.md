@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href="#-Sobre">Sobre</a>&nbsp;&nbsp; | &nbsp;&nbsp;
-   <a href="#-Funcionalidade">Funcionalidade</a>&nbsp;&nbsp; | &nbsp;&nbsp;
+   <a href="#-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp; | &nbsp;&nbsp;
    <a href="#-Observações">Observações</a> &nbsp;&nbsp; | &nbsp;&nbsp;
    <a href="#-Disciplina">Disciplina</a>
 </p>
@@ -13,6 +13,7 @@
 
 ## 🔖 Sobre
   O projeto final de Embarcada foi realizado utilizando a linguagem C. Seu desenvolvimento teve como principal objetivo a utilização de 5 funcionalidades presentes na placa periférica estudada durante o curso. 
+  Uma brincadeira com a história da trilogia De volta para o futuro, onde o usuário escolhe o ano de destino e as placas funcionam respectivamente à sua decisão, transportando o usuário ao ano desejado, usando as configurações criadas e sua imaginação.
   
 ## 💾 Funcionalidades
  - LCD
