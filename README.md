@@ -23,4 +23,5 @@
  - Linguagem C
  
 ## 📰 Observações
-    Alguns problemas foram encontrados durante o desenvolvimento do trabalho, como conflito do cooler com o teclado, display de 7 segmentos com flicker, e a não leitura da tecla através de uma função para isto. Apenas o cooler com o teclado que me impediu de implementar mais ao trabalho, pois não encontrei uma solução, entretanto, as outras duas dificuldades foram solucionadas.
+   Alguns problemas foram encontrados durante o desenvolvimento do trabalho, como conflito do cooler com o teclado, display de 7 segmentos com flicker, e a não leitura da tecla através de uma função para isto. Apenas o cooler com o teclado que me impediu de implementar mais ao trabalho, pois não encontrei uma solução, entretanto, as outras duas dificuldades foram solucionadas.
+    
