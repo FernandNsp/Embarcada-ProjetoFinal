@@ -24,9 +24,9 @@
  - Linguagem C
  
 ## 👩🏽‍💻 Explicação
-**Relatorio do projeto:** <a href="https://github.com/FernandNsp/Embarcada-ProjetoFinal/blob/main/Embarcada-Relatorio.docx">PDF</a>
-**Video Explicativo:** <a href="https://drive.google.com/file/d/1DemxlU005kbQGXOmPAj7yQLHznx0NFMs/view?usp=sharing">Drive</a>
-**Linkedin docente:** <a href="https://www.linkedin.com/in/otavio-gomes/">Otávio Gomes</a>
+<p>**Relatorio do projeto:** <a href="https://github.com/FernandNsp/Embarcada-ProjetoFinal/blob/main/Embarcada-Relatorio.docx">PDF</a></p>
+<p>**Video Explicativo:** <a href="https://drive.google.com/file/d/1DemxlU005kbQGXOmPAj7yQLHznx0NFMs/view?usp=sharing">Drive</a></p>
+<p>**Linkedin docente:** <a href="https://www.linkedin.com/in/otavio-gomes/">Otávio Gomes</a></p>
 
 ## 📰 Observação
    Alguns problemas foram encontrados durante o desenvolvimento do trabalho, como conflito do cooler com o teclado, display de 7 segmentos com flicker, e a não leitura da tecla através de uma função para isto. Apenas o cooler com o teclado que me impediu de implementar mais ao trabalho, pois não encontrei uma solução, entretanto, as outras duas dificuldades foram solucionadas.
